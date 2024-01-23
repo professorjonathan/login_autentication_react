@@ -1,3 +1,10 @@
+Projeto Tela de Login com autenticação, desenvolvido em React, com Styled-Components, permanecer logado com o Context API, e armazenar usuários no Local Storage do navegador.
+
+![image](https://github.com/professorjonathan/login_autentication_react/assets/115835116/5ad5136d-1981-4b14-ad33-974750a0c9af)
+![image](https://github.com/professorjonathan/login_autentication_react/assets/115835116/08607e8a-0a18-4f7d-8853-1182f7c1cb91)
+![image](https://github.com/professorjonathan/login_autentication_react/assets/115835116/4d694e52-36e3-4f5c-b924-430ca800e4b4)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
